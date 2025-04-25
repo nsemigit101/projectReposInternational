@@ -35,7 +35,7 @@ this project will use a dual condenser cooling system to reuse waste heat and ai
 Check on the above 4 images from the repository for the 3D model designs 
 
   
- 🛠️ Tools
+ 🛠️ Software Tools
       - Solidworks 
       - NX 
       - Creo 
@@ -48,11 +48,9 @@ Check on the above 4 images from the repository for the 3D model designs
       - Python 
       - C++ 
       - C# 
+
+//==========================================================================================================================================//
   
    2. Part failure detection based on ML</h3>
    3. Defect detection using Computer vision</h3>
   
-   
-       </div>
-  </div>
-</div>
