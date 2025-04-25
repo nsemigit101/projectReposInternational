@@ -39,16 +39,15 @@
           Manufacturing phase: Assembly of the whole system 
           Evaluation: testing of device in realtime application 
   
-    <a href="https://github.com/nsemigit101/Pr">View Project →</a>
+
   
     <h3>2. Part failure detection based on ML</h3>
- <p> <img src="[https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical](https://github.com/nsemigit101/projectReposInternational/blob/main/YAKUT1.PNG)" />
     <h3>3. Defect detection using Computer vision</h3>
   
     🛠️ Tools
- <p style="font-weight: bold; color: #16a085; font-size: 15px;  padding: 1%;"> 
-      <p> - Solidworks </p>
-      <p> - NX </p>
+
+  - Solidworks </p>
+   - NX </p>
       <p> - Creo </p>
       <p> - Ansys </p>
       <p> - Abaqus </p>
