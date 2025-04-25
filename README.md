@@ -32,7 +32,7 @@ this project will use a dual condenser cooling system to reuse waste heat and ai
           - Manufacturing phase: Assembly of the whole system 
           - Evaluation: testing of device in realtime application 
 
-![Image 1](YAKUT1.png)
+Check on the above 4 images for the 3D model designs 
 
   
  🛠️ Tools
