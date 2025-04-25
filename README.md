@@ -1,7 +1,7 @@
 
       Home    Project     Phase       Tools 
       
-   1. Yapay Zeka Destekli Çift Kondenserli Akıllı Kurutma Sistemi    (YAKUT/Garuda 45)
+1. Yapay Zeka Destekli Çift Kondenserli Akıllı Kurutma Sistemi    (YAKUT/Garuda 45)
 
         Proje, çift kondenserli bir soğutma sistemi ile entegre edilmiş, enerji verimli ve yapay zeka destekli akıllı 
         bir kurutma sistemi geliştirmeyi hedeflemektedir. Kurutma sürecinde silika jel veya benzeri higroskopik malzemeler 
@@ -12,7 +12,7 @@
         ilaç ve tekstil gibi sektörlerde kurutma süreçlerinin maliyetini ve enerji tüketimini düşürmektir. Geleneksel kurutma yöntemleri 
         yüksek enerji tüketimi gerektirirken, bu proje çift kondenserli bir soğutma sistemi kullanarak atık ısının yeniden kullanılmasını 
         sağlayacak ve ısı kayıplarını minimize ederek %50’ye varan enerji tasarrufu elde etmeyi hedefleyecektir.
-//====================================================================================================================================================//
+//========================================================================================================//
 
 AI-Supported Dual Condenser Smart Drying System (YAKUT/Garuda 45)
 
