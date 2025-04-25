@@ -12,7 +12,7 @@
         ilaç ve tekstil gibi sektörlerde kurutma süreçlerinin maliyetini ve enerji tüketimini düşürmektir. Geleneksel kurutma yöntemleri 
         yüksek enerji tüketimi gerektirirken, bu proje çift kondenserli bir soğutma sistemi kullanarak atık ısının yeniden kullanılmasını 
         sağlayacak ve ısı kayıplarını minimize ederek %50’ye varan enerji tasarrufu elde etmeyi hedefleyecektir.
-//========================================================================================================//
+//==========================================================================================================================================//
 
 AI-Supported Dual Condenser Smart Drying System (YAKUT/Garuda 45)
 
@@ -32,7 +32,7 @@ this project will use a dual condenser cooling system to reuse waste heat and ai
           - Manufacturing phase: Assembly of the whole system 
           - Evaluation: testing of device in realtime application 
 
-Check on the above 4 images for the 3D model designs 
+Check on the above 4 images from the repository for the 3D model designs 
 
   
  🛠️ Tools
