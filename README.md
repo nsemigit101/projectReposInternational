@@ -13,6 +13,7 @@
         yüksek enerji tüketimi gerektirirken, bu proje çift kondenserli bir soğutma sistemi kullanarak atık ısının yeniden kullanılmasını 
         sağlayacak ve ısı kayıplarını minimize ederek %50’ye varan enerji tasarrufu elde etmeyi hedefleyecektir.
 //====================================================================================================================================================//
+
 AI-Supported Dual Condenser Smart Drying System (YAKUT/Garuda 45)
 
 The project aims to develop an energy-efficient and AI-supported smart drying system integrated with a dual condenser cooling system. During the 
